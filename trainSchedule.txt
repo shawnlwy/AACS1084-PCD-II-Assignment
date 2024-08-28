@@ -1,0 +1,38 @@
+Q001|8|0|9|30|Gombak|Taman Melati| |120|9.990000
+Q002|9|30|11|0|Taman Melati|Wangsa Maju| |150|7.000000
+Q003|11|0|12|30|Wangsa Maju|Sri Rampai| |100|5.000000
+Q004|13|0|14|30|Sri Rampai|Setiawangsa| |200|8.000000
+Q005|15|0|16|30|Setiawangsa|Jelatek| |180|7.500000
+Q006|7|30|9|0|Jelatek|Dato Keramat| |110|6.000000
+Q007|10|0|11|30|Dato Keramat|Damai| |130|6.750000
+Q008|12|0|13|30|Damai|Ampang Park|Ampang Park - MRT Kajang Line|170|7.250000
+Q009|14|0|15|30|Ampang Park|KLCC| |140|6.250000
+Q010|16|0|17|30|KLCC|Kampung Baru| |160|7.100000
+Q011|8|15|9|45|Kampung Baru|Dang Wangi|Dang Wangi - KL Monorail Line|125|6.550000
+Q012|9|45|11|15|Dang Wangi|Masjid Jamek| |155|7.150000
+Q013|11|15|12|45|Masjid Jamek|Pasar Seni|Pasar Seni - LRT Ampang Line|105|5.250000
+Q014|13|15|14|45|Pasar Seni|KL Central| |205|8.050000
+Q015|15|15|16|45|KL Central|Bangsar| |185|7.750000
+Q016|7|45|9|15|Bangsar|Abdullah Hukum| |115|6.100000
+Q017|10|15|11|45|Abdullah Hukum|Kerinchi|Kerinchi - MRT Kajang Line|135|6.850000
+Q018|12|15|13|45|Kerinchi|University|University - MRT Putrajaya Line|175|7.350000
+Q019|14|15|15|45|University|Taman Jaya| |145|6.450000
+Q020|16|15|17|45|Taman Jaya|Asia Jaya| |165|7.200000
+Q021|8|30|10|0|Asia Jaya|Taman Paramount| |130|6.250000
+Q022|10|45|12|15|Taman Paramount|Taman Bahagia| |160|7.100000
+Q023|12|45|14|15|Taman Bahagia|Kelana Jaya| |120|6.500000
+Q024|14|45|16|15|Kelana Jaya|Lembah Subang| |180|7.500000
+Q025|16|45|18|15|Lembah Subang|Ara Damansara| |140|6.250000
+Q026|7|0|8|30|Ara Damansara|(CGC) Glenmarie| |100|5.000000
+Q027|9|0|10|30|(CGC) Glenmarie|Subang Jaya| |150|7.000000
+Q028|11|30|13|0|Subang Jaya|SS 15|SS 15 - LRT Kelana Jaya Line|110|6.000000
+Q029|13|30|15|0|SS 15|SS 18| |190|7.850000
+Q030|15|30|17|0|SS 18|USJ 7|USJ 7 - BRT Sunway Line|170|7.250000
+Q031|8|5|9|35|USJ 7|Taipan| |135|6.850000
+Q032|10|20|11|50|Taipan|Wawasan| |165|7.200000
+Q033|12|35|14|5|Wawasan|USJ 21| |125|6.550000
+Q034|14|50|16|20|USJ 21|Alam Megah| |155|7.150000
+Q035|16|55|18|25|Alam Megah|Subang Alam| |145|6.450000
+Q036|7|20|8|50|Subang Alam|Putra Heights| |105|5.250000
+Q037|9|40|11|10|Putra Height|Klang|LRT Klang Line|175|7.350000
+Q038|11|15|12|30|Klang|Bukit Tinggi|Bukit Tinggi - LRT Klang Line|200|1.000000
