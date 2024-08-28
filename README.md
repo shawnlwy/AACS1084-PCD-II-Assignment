@@ -1,4 +1,4 @@
-# AACS1084-PCD-II-Assignment
+# C Language - Train Ticketing System
 Train Ticketing System
 
 This is the assignment of TARUMT AACS1084 PCD II in 2024.
