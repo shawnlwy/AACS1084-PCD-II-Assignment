@@ -8,6 +8,6 @@ This Train Ticket System including four modules, and using binary file / text fi
   1. Staff Information Module (Binary File)
   2. Member Information Module (Text File)
   3. Train Schedule Module (Text File)
-  4. Ticket Booking Module (Binary File) - Done by me
+  4. Ticket Booking Module (Binary File)
 
 Each of these modules contain the functions: add, search, modify & display.
